@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-SB Works transforms the way clients and freelancers connect. Clients can post detailed projects, review freelancer profiles, and select from multiple bids. Freelancers can showcase their skills, bid on jobs, collaborate through real-time chat, and submit work directly through the platform.
+It transforms the way clients and freelancers connect. Clients can post detailed projects, review freelancer profiles, and select from multiple bids. Freelancers can showcase their skills, bid on jobs, collaborate through real-time chat, and submit work directly through the platform.
 
 The platform ensures transparency and quality by enabling admin oversight and user feedback, fostering a trustworthy and efficient environment for remote collaboration.
 
